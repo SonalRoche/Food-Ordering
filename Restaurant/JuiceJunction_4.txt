@@ -1,0 +1,11 @@
+DISH_NUMBER           DISH_NAME                     PRICE
+01                    Oreo_Milkshake                60
+02                    Kitkat_Milkshake              60
+03                    Mud_Chocolate                 80
+04                    Berry_Blast                   45
+05                    Chocloate_Chip_Shake          80
+06                    Mango_Milkshake               50
+07                    Sweet_Lassi                   30
+08                    Fruit_Punch                   30
+09                    Cold_Coffee                   30
+10                    Veg_Grill_Sandwitch           40

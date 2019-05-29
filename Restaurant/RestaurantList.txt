@@ -1,0 +1,8 @@
+REST_NO.    RESTAURANT_NAME    CUISINE           RATING    COSTFOR2    ADDRESS          
+01          The_Grill_House    Continental       4.0/5     1000        Koramangala
+02          Punjabi_Dhaba      North_Indian      3.5/5     300         HSR_Layout
+03          Up_South           South_Indian      3.2/5     500         Jayanagar
+04          Juice_Junction     Beverages         3.5/5     200         JP_Nagar
+05          China_Pearl        Chinese           4.5/5     1500        Indiranagar
+06          Corner_House       Desserts          4.2/5     250         MG_Road
+07          Cafe_Thulp         Cafe              4.3/5     600         Brigade_Road                                            

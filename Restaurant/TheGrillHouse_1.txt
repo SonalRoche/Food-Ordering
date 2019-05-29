@@ -1,0 +1,11 @@
+DISH_NUMBER           DISH_NAME                     PRICE
+01                    Cheese_Fries                  250
+02                    Fish'N'Chips                  300
+03                    Nachos                        200
+04                    Chicken_Burger                300
+05                    Veg_Cheese_Burger             250
+06                    Mushroom_Soup                 150
+07                    Clear_Soup                    100
+08                    Greek_Salad                   200
+09                    Steak                         300
+10                    Pasta                         260

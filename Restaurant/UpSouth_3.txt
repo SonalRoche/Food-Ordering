@@ -1,0 +1,11 @@
+DISH_NUMBER           DISH_NAME                     PRICE
+01                    Aloo_Samosa                   20
+02                    Idly(2)                       15
+03                    Vada(2)                       20
+04                    Masala_Dosa                   45
+05                    Set_Dosa                      30
+06                    Veg_Meal                      55
+07                    Nonveg_Meal                   65
+08                    Veg_Stew                      70
+09                    Parotta                       30
+10                    Rice                          40

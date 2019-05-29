@@ -1,0 +1,11 @@
+DISH_NUMBER           DISH_NAME                     PRICE
+01                    Gobi_Manchurian               80
+02                    Chilli_Paneer                 90
+03                    Chilli_Chicken                100
+04                    Babycorn65                    120
+05                    Chicken_Manchurian            150
+06                    Channa_Masala                 90
+07                    Dal_Fry                       70
+08                    Palak_Paneer                  90
+09                    Ghee_Rice                     100
+10                    Tandoori_Roti                 50

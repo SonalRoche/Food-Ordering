@@ -1,0 +1,11 @@
+DISH_NUMBER           DISH_NAME                     PRICE
+01                    Veg_Soup                      100
+02                    Chicken_Soup                  150
+03                    Sesame_Salad                  200
+04                    Potato_Wings                  150
+05                    Spring_Roll                   150
+06                    Chicken_Momos                 100
+07                    Chicken_Fried_Rice            250
+08                    Veg_Fried_Rice                200   
+09                    Chicken_Noodles               200
+10                    Chinese_Tea                   50

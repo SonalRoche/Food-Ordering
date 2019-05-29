@@ -1,0 +1,11 @@
+DISH_NUMBER           DISH_NAME                     PRICE
+01                    Vanilla_Scoop                 60 
+02                    Chocolate_Scoop               80
+03                    Chocolate_Shake               150     
+04                    Death_By_Chocolate            180
+05                    Brownie_Fudge                 140
+06                    Banana_Split                  130
+07                    Trilogy                       180
+08                    Cake_Fudge                    120
+09                    Cafe_Caramel                  140
+10                    Mocha                         130

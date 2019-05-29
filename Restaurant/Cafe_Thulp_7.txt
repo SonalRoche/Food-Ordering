@@ -1,0 +1,11 @@
+DISH_NUMBER           DISH_NAME                     PRICE
+01                    Paneer_Pizza                  260
+02                    Chicken_Pizza                 300
+03                    Citrus_Salad                  200
+04                    Masala_Fries                  200
+05                    Onion_Rings                   160
+06                    Grill_Sandwitch               150
+07                    Veg_Burger                    200
+08                    Chilli_Burger                 140
+09                    Veg_Roll                      175
+10                    Walnut_Brownie                160
